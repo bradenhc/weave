@@ -1,0 +1,7 @@
+# IDE
+.vscode/
+.cache/
+
+# Build
+CMakeUserPresets.json
+build/
